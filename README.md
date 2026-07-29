@@ -1,3 +1,10 @@
+
+# aws-secrets-manager
+
+### Provisionamento de secrets na AWS com Terraform
+
+Consome o módulo próprio [`terraform-aws-secrets-manager`](https://github.com/leopoldocardoso/terraform-aws-secrets-manager) para criar secrets com **senhas geradas automaticamente**, caracteres especiais customizáveis, janela de recuperação configurável e tags.
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
